@@ -3,7 +3,7 @@
 ![Block diagram 2](https://user-images.githubusercontent.com/98816316/157873024-34c06d7b-96eb-4336-8633-12a8e6a9834c.png)
 # ARCHITECTURAL
 ## Behavioural Diagram
-![Behavioural](https://user-images.githubusercontent.com/98816316/157813710-315d5760-dd64-4169-a640-5f9e030bc1c6.png)
+![Behavioural](https://github.com/AdityaParadeshi/Module3_59/blob/1cbc8dd2a2bef7d7ea6d8f7a7838fadab2320e6b/2.BiCom_System/2_Architecture/new.drawio.png)
 # Use Case STRUCTURAL DIAGRAM
 ## High level Structural Diagram
 ![High level diagram](https://user-images.githubusercontent.com/98816316/new.drawio.png)
