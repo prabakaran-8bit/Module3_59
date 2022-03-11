@@ -107,3 +107,8 @@
 |LLT2 |test for alarm status  |Switch is pressed Twice |All the led's are turned OFF at same time  |All the led's are turned OFF at same time |pass |  
 |LLT3 |test for car battery info |Switch is pressed Thrice |All the led's are turned ON in clockwise direction  |All the led's are turned ON in clockwise direction  |pass | 
 |LLT4 |test for Door status|Switch is pressed 4 times |All the led's are turned ON in anticlockwise direction  |All the led's are turned ON in anticlockwise direction  |pass |
+## Output
+
+
+https://user-images.githubusercontent.com/73412166/157993500-c9b80f6b-954d-445d-8d82-ba510bf57db2.mp4
+
