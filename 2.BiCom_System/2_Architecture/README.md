@@ -6,7 +6,7 @@
 ![Behavioural](https://github.com/AdityaParadeshi/Module3_59/blob/1cbc8dd2a2bef7d7ea6d8f7a7838fadab2320e6b/2.BiCom_System/2_Architecture/Behavioral.png)
 # Use Case STRUCTURAL DIAGRAM
 ## High level Structural Diagram
-![High level diagram](https://github.com/AdityaParadeshi/Module3_59/blob/1cbc8dd2a2bef7d7ea6d8f7a7838fadab2320e6b/2.BiCom_System/2_Architecture/new.drawio.pngg)
+![High level diagram](https://github.com/AdityaParadeshi/Module3_59/blob/1cbc8dd2a2bef7d7ea6d8f7a7838fadab2320e6b/2.BiCom_System/2_Architecture/new.drawio.png)
 
 ## Low level Structural Diagram
 ![Low level](https://user-images.githubusercontent.com/98816316/157836122-9eebe235-4928-4c85-adaf-1a2f6e8eaaf1.png)
