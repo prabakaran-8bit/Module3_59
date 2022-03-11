@@ -30,5 +30,9 @@
 |---- |---- |---- |---- |----|----|
 |LLT4.1 |test for Approach Light|Switch is pressed 4 times |All the led's are turned ON in anticlockwise direction  |All the led's are turned ON in anticlockwise direction  |pass |  
 
+|Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
+|---- |---- |---- |---- |----|----|
+|LLT4.1 |test for Encryption|- |pattern  |pattern  |pass |  
+
 
 
