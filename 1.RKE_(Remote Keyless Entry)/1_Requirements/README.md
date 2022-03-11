@@ -57,18 +57,29 @@
 
 |RID	|DESCRIPTION |
 |---- |----|
-|HLR1	|Home shall be Automated |
-|HLR2	|System shall sense the motion |
-|HLR3	|System shall sense the smoke  |
-|HLR4	|System shall sense the environmental changes  |
-|HLR5 |System shall sense the temprature |
+|HLR1	|System shall be Remotely locked/unlocked |
+|HLR2	|System shall be encrypted |
+|HLR3	|System shall be provided with alaram Activation/Deactivation |
+|HLR4	|System shall be provided with approach lights  |
+
 
 ## Low Level Requirement:
 
 |RID	|DESCRIPTION |
 |---- |----|
-|LLR1	|led shall be turned on and displayed if Motion sensor (PIR) detects |
-|LLR2	|temprature shall be displayed if temprature is sensed |
-|LLR3	|viberation value shall be displayed if earthquake sensor detects |
-|LLR4	|led shall be turned on if earthquake sensor doesnot detect |
-|LLR5	|Exhaust fan shall be turned on if smoke is detected |
+|LLR1.1|When switch is ON all the led's must turn on at same time |
+|LLR1.2	|When switch is Pressed 2 times all the led's must turn OFF at same time |
+
+|RID	|DESCRIPTION |
+|---- |----|
+|LLR2.1|System shall be Provided with the pattern to ensure security |
+
+|RID	|DESCRIPTION |
+|---- |----|
+|LLR3.1|When the switch is Pressed 3 times all led's shall turn on in clockwise manner  |
+
+|RID	|DESCRIPTION |
+|---- |----|
+|LLR4.1|When the switch is Pressed 4 times all led's shall turn on in anticlockwise manner  |
+
+
