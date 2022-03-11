@@ -16,23 +16,14 @@
 
 |Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
 |---- |---- |---- |---- |----|----|
-|LLT1.1 |test for car lock |Switch is pressed |All the led's are turned ON at same time  |All the led's are turned ON at same time |pass |  
+|LLT1 |test for car lock |Switch is pressed |All the led's are turned ON at same time  |All the led's are turned ON at same time |pass |  
+|LLT2 |test for car Unlock |Switch is pressed Twice |All the led's are turned OFF at same time  |All the led's are turned OFF at same time |pass |  
+|LLT3 |test for Alram (Activation/Deactivation) |Switch is pressed Thrice |All the led's are turned ON in clockwise direction  |All the led's are turned ON in clockwise direction  |pass | 
+|LLT4 |test for Approach Light|Switch is pressed 4 times |All the led's are turned ON in anticlockwise direction  |All the led's are turned ON in anticlockwise direction  |pass |
+|LLT5 |test for Encryption|- |pattern  |pattern  |pass |  
 
-|Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
-|---- |---- |---- |---- |----|----|
-|LLT2.1 |test for car Unlock |Switch is pressed Twice |All the led's are turned OFF at same time  |All the led's are turned OFF at same time |pass |  
 
-|Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
-|---- |---- |---- |---- |----|----|
-|LLT3.1 |test for Alram (Activation/Deactivation) |Switch is pressed Thrice |All the led's are turned ON in clockwise direction  |All the led's are turned ON in clockwise direction  |pass |  
 
-|Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
-|---- |---- |---- |---- |----|----|
-|LLT4.1 |test for Approach Light|Switch is pressed 4 times |All the led's are turned ON in anticlockwise direction  |All the led's are turned ON in anticlockwise direction  |pass |  
-
-|Test id |Description |expected i/p |expected o/p |Actuall o/p |pass/fail |
-|---- |---- |---- |---- |----|----|
-|LLT4.1 |test for Encryption|- |pattern  |pattern  |pass |  
 
 
 
