@@ -102,7 +102,7 @@
 
 # BLOCK DIAGRAM
 ## Proposed block diagram
-![Untitled Diagram drawio](https://user-images.githubusercontent.com/98816316/157724940-5ceb5825-001f-4c74-beab-b931e826d752.png)
+![Block diagram 2](https://user-images.githubusercontent.com/98816316/157873024-34c06d7b-96eb-4336-8633-12a8e6a9834c.png)
 # ARCHITECTURAL
 ## Behavioural Diagram
 ![Behavioural](https://user-images.githubusercontent.com/98816316/157813710-315d5760-dd64-4169-a640-5f9e030bc1c6.png)
